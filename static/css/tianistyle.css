@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+/* id */
+#personal {
+    text-indent: 20%;
+}
+
+/* class */
+.data {color: blue;}
